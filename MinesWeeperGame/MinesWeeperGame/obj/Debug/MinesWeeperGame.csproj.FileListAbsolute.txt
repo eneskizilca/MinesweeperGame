@@ -1,0 +1,7 @@
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\bin\Debug\MinesWeeperGame.exe.config
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\bin\Debug\MinesWeeperGame.exe
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\bin\Debug\MinesWeeperGame.pdb
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.csprojAssemblyReference.cache
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.csproj.CoreCompileInputs.cache
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.exe
+C:\Users\eneskizilca\source\repos\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.pdb
